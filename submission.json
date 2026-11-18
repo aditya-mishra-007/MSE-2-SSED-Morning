@@ -1,0 +1,8 @@
+{
+  "student_name": "Aditya Mishra",
+  "github_username": "aditya-mishra-007",
+  "dockerhub_username": "adityamishra1612",
+  "repository": "https://github.com/aditya-mishra-007/MSE-2-SSED-Morning",
+  "frontend_image": "adityamishra1612/taskflow-frontend:latest",
+  "backend_image": "adityamishra1612/taskflow-backend:latest"
+}
